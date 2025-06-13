@@ -14,7 +14,7 @@
 
 ---
 ### 🛠 **개발환경**
-- **miniconda**가상환경(hipython)
+- **miniconda가상환경(hipython)**
 - **jupyter notebook**
 -  **VScode**
 - **git hub**
