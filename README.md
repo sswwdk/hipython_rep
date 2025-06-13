@@ -13,6 +13,14 @@
 <br>
 
 ---
+### 🛠 **개발환경**
+- **miniconda가상환경**(hipython)
+- **jupyter notebook**
+-  **VScode**
+- **git hub**
+
+<br>
+
 
 ### 🐍 **현재 학습 중인 내용**
 - **Python Basic:** 변수, 자료형, 조건문, 반복문
