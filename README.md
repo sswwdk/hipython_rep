@@ -1,4 +1,4 @@
-# WhyNot 7기 소프트웨어 캠프 – 파이썬 실습 포트폴리오
+# 💫WhyNot 7기 소프트웨어 캠프 – 파이썬 실습 포트폴리오
 이 저장소는 WhyNot 7기 소프트웨어 캠프의 파이썬 프로그래밍 교육 과정에서 진행한 실습과 팀 프로젝트 결과물을 체계적으로 모아 포트폴리오로 기록한 공간입니다. 
 기초 문법부터 실전 문제 해결, 그리고 팀별 프로젝트까지 성장 과정을 단계별로 확인할 수 있습니다.
 
@@ -32,9 +32,9 @@
 ---
 
 ### 🎯 **학습 목표**
-- []
-- [꾸준히 1일 1커밋 실천하기]
-- [생활코딩 파이썬 강좌 완강하기]
+- [-]
+- [-]
+- [-]
 
 <br>
 
@@ -63,10 +63,20 @@
 
 ---
 
-### 📫 **연락 방법**
-- **Email**: [이메일 주소 입력]
-- 궁금한 점이 있다면 언제든지 편하게 연락 주세요!
-
-<br>
+### **🫲연락처🫱**
+<div align="left">
+  <a href="https://velog.io/@sswwdk/posts" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog"/>
+  </a>
+  <a href="mailto:jjaga99@naver.com">
+    <img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Email"/>
+  </a>
+  <a href="mailto:jjaga99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+ <!-- <a href="https://blog.naver.com/jjaga99" target="_blank">
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver"/>
+  </a> -->
+</div>
 
 ---
